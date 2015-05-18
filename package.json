@@ -1,0 +1,14 @@
+{
+  "name": "mit-settings",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "mit settings",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/leango/mit-settings.git"
+  },
+  "main": "index.js",
+  "author": "henryleu@126.com",
+  "license": "",
+  "dependencies": {
+  }
+}
