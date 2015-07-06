@@ -17,13 +17,13 @@ var settings = module.exports = {
     protocol: 'http',
     host: '127.0.0.1',
     port: 3020,
-    domain: 'dev.www.zz365.com.cn',
+    domain: 'dev.www.trillers.com.cn',
     domainPort: 80,
     context: '/'
   },
 
   api: {
-    url: 'http://dev.www.zz365.com.cn/api'
+    url: 'http://dev.www.trillers.com.cn/api'
   },
 
   logging: {
@@ -45,7 +45,7 @@ var settings = module.exports = {
   mongo: {
     host: "127.0.0.1",
     port: 27017,
-    db: "seedtrip",
+    db: "oxford",
     username: '',
     password: ''
   },
@@ -70,7 +70,7 @@ var settings = module.exports = {
   
   resources: {
     app: {
-      name: ""
+      name: "mit"
     }
   }
 };
