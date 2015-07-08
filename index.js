@@ -17,13 +17,13 @@ var settings = module.exports = {
     protocol: 'http',
     host: '127.0.0.1',
     port: 3020,
-    domain: 'dev.www.trillers.com.cn',
+    domain: 'http://ci.bao.nong600.com',
     domainPort: 80,
     context: '/'
   },
 
   api: {
-    url: 'http://dev.www.trillers.com.cn/api'
+    url: 'http://ci.bao.nong600.com/api'
   },
 
   logging: {
@@ -56,9 +56,9 @@ var settings = module.exports = {
   },
 
   wechat: {
-    appKey: 'wxa51b0be8694ba7b5',
-    appSecret: '23c92d23482f991426894c40dcf07452',
-    token: 'seedtrip',
+    appKey: 'wx23f1709f7727051f',
+    appSecret: '977f6080e128d465b673deb79e3d31b8',
+    token: 'tillers',
     encodingAESKey: 'u66H0iFUqhQNCUMV4zAwMpy3fIFDR7a3GLSAm1rVz7d'
   },
 
