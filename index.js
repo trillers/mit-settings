@@ -17,13 +17,13 @@ var settings = module.exports = {
     protocol: 'http',
     host: '127.0.0.1',
     port: 3020,
-    domain: 'http://ci.bao.nong600.com',
+    domain: 'http://ci.bot.bao.nong600.com',
     domainPort: 80,
     context: '/'
   },
 
   api: {
-    url: 'http://ci.bao.nong600.com/api'
+    url: 'http://ci.bot.bao.nong600.com/api'
   },
 
   logging: {
