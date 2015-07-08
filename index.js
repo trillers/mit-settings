@@ -1,12 +1,12 @@
 var settings = module.exports = {
   env: {
-    name: 'dev',
-    mode: 'development',
+    name: 'prd',
+    mode: 'production',
     host: '127.0.0.1',
     port: 3020,
     bindIp: "0.0.0.0",
 
-    NODE_ENV: 'development',
+    NODE_ENV: 'production',
     PORT: 3020,
     BINDIP: "0.0.0.0"
   },
@@ -17,13 +17,13 @@ var settings = module.exports = {
     protocol: 'http',
     host: '127.0.0.1',
     port: 3020,
-    domain: 'http://ci.bao.nong600.com',
+    domain: 'http://bot.bao.nong600.com',
     domainPort: 80,
     context: '/'
   },
 
   api: {
-    url: 'http://ci.bao.nong600.com/api'
+    url: 'http://bot.bao.nong600.com/api'
   },
 
   logging: {
