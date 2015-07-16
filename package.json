@@ -4,7 +4,7 @@
   "description": "mit settings",
   "repository": {
     "type": "https",
-    "url": "https://github.com/leango/mit-settings.git"
+    "url": "https://github.com/trillers/mit-settings.git"
   },
   "main": "index.js",
   "author": "henryleu@126.com",
