@@ -58,8 +58,8 @@ var settings = module.exports = {
   wechat: {
     appKey: 'wx23f1709f7727051f',
     appSecret: '977f6080e128d465b673deb79e3d31b8',
-    token: 'tillers',
-    encodingAESKey: 'u66H0iFUqhQNCUMV4zAwMpy3fIFDR7a3GLSAm1rVz7d'
+    token: 'trillers',
+    encodingAESKey: '1Gr8g1XtU7FKtkwJWVuHoqSqt0jjQolVj38SPzevaxA'
   },
 
   locationServer: {
